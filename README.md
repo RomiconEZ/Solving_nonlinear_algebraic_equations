@@ -1,0 +1,2 @@
+# Solving_nonlinear_algebraic_equations
+Описание в методичке
